@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "scripts": {
+    "db": "json-server data/movies.json --watch --port 3030"
+  }
+}
