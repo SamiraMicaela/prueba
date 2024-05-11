@@ -4,8 +4,8 @@ import { MoviesService } from './movies.service';
 import * as serveStatic from 'serve-static';
 
 @Module({
-  imports: [ ],
+  imports: [],
   controllers: [MoviesController],
   providers: [MoviesService],
 })
-export class AppModule {}
+export class AppModule { }
