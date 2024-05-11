@@ -10,7 +10,7 @@ export class MoviesService {
         return movies as iMovies[];
     }
 
-    async getMovieById(id: number): Promise<iMovies[]> {
+    async getMovieById(id: string): Promise<iMovies[]> {
         const res = await fetch(BASE_URL + id);
         const movies = await res.json();
         return movies;

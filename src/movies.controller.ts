@@ -12,7 +12,7 @@ export class MoviesController {
     return this.moviesService.getMovies();
   }
   @Get(':id')
-  getMovieById(@Param('id')id: number): Promise<iMovies[]>{
+  getMovieById(@Param('id')id: string): Promise<iMovies[]>{
     return this.moviesService.getMovieById(id);
   }
 }
