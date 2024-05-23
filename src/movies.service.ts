@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { iMovies } from './moviesInterface';
-import { v4 as uuidv4 } from 'uuid';
+
 const BASE_URL = 'http://localhost:3030/movies/';
 
 @Injectable()
