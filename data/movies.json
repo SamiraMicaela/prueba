@@ -1,6 +1,6 @@
 {
- "movies": [
-   {
+  "movies": [
+    {
       "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
       "title": "The Shawshank Redemption",
       "year": 1994,
@@ -241,76 +241,114 @@
       ],
       "rate": 8.4
     },
-  {
-  "id": "02f15f52-fa0f-4d1d-a62c-2d35a197ca17",
-  "title": "The Prestige",
-  "year": 2006,
-  "director": "Christopher Nolan",
-  "duration": 130,
-  "poster":  "https://i.pinimg.com/736x/4f/4d/fa/4f4dfabe5c46358c8d821bd2716e8186.jpg",
-  "genre": [
-  "Drama",
-  "Mystery",
-  "Sci-Fi"
-  ],
-  "rate": 8.5
-  },
-  {
-  "id": "a961e1e1-7a5e-4cb1-a697-7d3bf8dcf80d",
-  "title": "The Usual Suspects",
-  "year": 1995,
-  "director": "Bryan Singer",
-  "duration": 106,
-  "poster": "https://image.tmdb.org/t/p/original/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
-  "genre": [
-  "Crime",
-  "Mystery",
-  "Thriller"
-  ],
-  "rate": 8.5
-  },
-  {
-  "id": "f0a5c4cb-7eb0-4c4b-8b7f-e3f855c3ac77",
-  "title": "Se7en",
-  "year": 1995,
-  "director": "David Fincher",
-  "duration": 127,
-  "poster": "https://m.media-amazon.com/images/I/61MOBBZJkmL._AC_UF894,1000_QL80_.jpg",
-  "genre": [
-  "Crime",
-  "Drama",
-  "Mystery"
-  ],
-  "rate": 8.6
-  },
-  
-  {
-  "id": "1bfbe6c4-ec44-4943-ba43-6b53e83047d7",
-  "title": "Schindler's List",
-  "year": 1993,
-  "director": "Steven Spielberg",
-  "duration": 195,
-  "poster": "https://m.media-amazon.com/images/I/71vKAOMv8nL.jpg",
-  "genre": [
-  "Biography",
-  "Drama",
-  "History"
-  ],
-  "rate": 8.9
-  },
-  {
-  "id": "fe68c8bb-fd88-4525-98f4-1bc27eeaf40b",
-  "title": "The Departed",
-  "year": 2006,
-  "director": "Martin Scorsese",
-  "duration": 151,
-  "poster": "https://m.media-amazon.com/images/I/510gCMld+uL._AC_UF894,1000_QL80_.jpg",
-  "genre": [
-  "Crime",
-  "Drama",
-  "Thriller"
-  ],
-  "rate": 8.5
-  } 
+    {
+      "id": "02f15f52-fa0f-4d1d-a62c-2d35a197ca17",
+      "title": "The Prestige",
+      "year": 2006,
+      "director": "Christopher Nolan",
+      "duration": 130,
+      "poster": "https://i.pinimg.com/736x/4f/4d/fa/4f4dfabe5c46358c8d821bd2716e8186.jpg",
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rate": 8.5
+    },
+    {
+      "id": "a961e1e1-7a5e-4cb1-a697-7d3bf8dcf80d",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "director": "Bryan Singer",
+      "duration": 106,
+      "poster": "https://image.tmdb.org/t/p/original/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rate": 8.5
+    },
+    {
+      "id": "f0a5c4cb-7eb0-4c4b-8b7f-e3f855c3ac77",
+      "title": "Se7en",
+      "year": 1995,
+      "director": "David Fincher",
+      "duration": 127,
+      "poster": "https://m.media-amazon.com/images/I/61MOBBZJkmL._AC_UF894,1000_QL80_.jpg",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rate": 8.6
+    },
+    {
+      "id": "1bfbe6c4-ec44-4943-ba43-6b53e83047d7",
+      "title": "Schindler's List",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "duration": 195,
+      "poster": "https://m.media-amazon.com/images/I/71vKAOMv8nL.jpg",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rate": 8.9
+    },
+    {
+      "id": "fe68c8bb-fd88-4525-98f4-1bc27eeaf40b",
+      "title": "The Departed",
+      "year": 2006,
+      "director": "Martin Scorsese",
+      "duration": 151,
+      "poster": "https://m.media-amazon.com/images/I/510gCMld+uL._AC_UF894,1000_QL80_.jpg",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rate": 8.5
+    },
+    {
+      "id": "lwb6n19d",
+      "title": "Interestelar",
+      "year": "2014",
+      "director": "Christopher Nolan",
+      "duration": "169",
+      "poster": "",
+      "genre": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "rate": "8.7"
+    },
+    {
+      "id": "lwic240m",
+      "title": "Me before You",
+      "year": "2016",
+      "director": "Thea Sharrock",
+      "duration": "110",
+      "poster": "",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "rate": "4.3/5"
+    },
+    {
+      "id": "lwic3thp",
+      "title": "Me before You",
+      "year": 2016,
+      "director": "Thea Sharrock",
+      "duration": 110,
+      "poster": "",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "rate": 4.3
+    }
   ]
 }
